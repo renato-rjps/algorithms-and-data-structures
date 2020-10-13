@@ -9,7 +9,7 @@
 
 	<properties>
 		<!-- API's versions -->
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<!-- PLUGIN'S versions -->
 		<maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
 		<!-- JAVA version -->
